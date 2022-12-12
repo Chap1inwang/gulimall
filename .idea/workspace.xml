@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc5d1f0-37cf-4453-93d0-0fecd194c45e" name="Changes" comment="" />
+    <list default="true" id="abc5d1f0-37cf-4453-93d0-0fecd194c45e" name="Changes" comment="项目初始化">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,13 +55,13 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="gulimall" type="f1a62948:ProjectNode" />
-                <item name="gulimall-coupon" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="gulimall" type="f1a62948:ProjectNode" />
-                <item name="gulimall-coupon" type="2d1252cf:ModuleNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -187,7 +190,7 @@
       <recent name="D:\dev\project\gulimall" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.GulimallCouponApplication (1)">
+  <component name="RunManager" selected="Gradle.gulimall [build]">
     <configuration name="gulimall [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -302,8 +305,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.gulimall [clean]" />
         <item itemvalue="Gradle.gulimall [build]" />
+        <item itemvalue="Gradle.gulimall [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -315,8 +318,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670834227500</updated>
-      <workItem from="1670834229734" duration="11306000" />
+      <workItem from="1670834229734" duration="12027000" />
     </task>
+    <task id="LOCAL-00001" summary="项目初始化">
+      <created>1670849845518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670849845518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,5 +343,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目初始化" />
   </component>
 </project>
