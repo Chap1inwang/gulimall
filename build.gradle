@@ -1,0 +1,11 @@
+allprojects {
+    group = 'com.infinity.gulimall'
+    version = '0.1.0'
+}
+
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'eclipse'
+}
+
+
