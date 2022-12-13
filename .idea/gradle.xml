@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -17,6 +18,7 @@
             <option value="$PROJECT_DIR$/gulimall-order" />
             <option value="$PROJECT_DIR$/gulimall-product" />
             <option value="$PROJECT_DIR$/gulimall-ware" />
+            <option value="$PROJECT_DIR$/renren-fast" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -82,6 +84,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/gulimall-ware" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/renren-fast" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle/gradle-6.8.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/renren-fast" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -4,4 +4,5 @@ include ':gulimall-coupon',
         ':gulimall-member',
         ':gulimall-order',
         ':gulimall-product',
-        ':gulimall-ware'
+        ':gulimall-ware',
+        ':renren-fast'
